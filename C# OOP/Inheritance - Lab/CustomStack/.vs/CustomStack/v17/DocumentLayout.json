@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\Inheritance - Lab\\CustomStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEB71EE-0E13-4B05-8F2D-087F4D833BCD}|CustomStack.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritance - lab\\customstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEB71EE-0E13-4B05-8F2D-087F4D833BCD}|CustomStack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEB71EE-0E13-4B05-8F2D-087F4D833BCD}|CustomStack.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritance - lab\\customstack\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEB71EE-0E13-4B05-8F2D-087F4D833BCD}|CustomStack.csproj|solutionrelative:customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\Inheritance - Lab\\CustomStack\\CustomStack.cs",
+              "RelativeDocumentMoniker": "CustomStack.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\Inheritance - Lab\\CustomStack\\CustomStack.cs",
+              "RelativeToolTip": "CustomStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:26:26.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\Inheritance - Lab\\CustomStack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\Inheritance - Lab\\CustomStack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:25:53.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# ADVANCED\\Stacks and queues - Lab\\Reverse a String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D2E0AB-5121-4ED6-92FD-E9D8E7D17D6C}|Reverse a String\\Reverse a String.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# advanced\\stacks and queues - lab\\reverse a string\\reverse a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D2E0AB-5121-4ED6-92FD-E9D8E7D17D6C}|Reverse a String\\Reverse a String.csproj|solutionrelative:reverse a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# ADVANCED\\Stacks and queues - Lab\\Reverse a String\\Reverse a String\\Program.cs",
+              "RelativeDocumentMoniker": "Reverse a String\\Program.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# ADVANCED\\Stacks and queues - Lab\\Reverse a String\\Reverse a String\\Program.cs*",
+              "RelativeToolTip": "Reverse a String\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:37:08.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

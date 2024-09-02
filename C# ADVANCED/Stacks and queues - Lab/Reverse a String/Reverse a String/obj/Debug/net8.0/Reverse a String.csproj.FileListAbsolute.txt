@@ -1,0 +1,14 @@
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\bin\Debug\net8.0\Reverse a String.exe
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\bin\Debug\net8.0\Reverse a String.deps.json
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\bin\Debug\net8.0\Reverse a String.runtimeconfig.json
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\bin\Debug\net8.0\Reverse a String.dll
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\bin\Debug\net8.0\Reverse a String.pdb
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.AssemblyInfoInputs.cache
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.AssemblyInfo.cs
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.dll
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\refint\Reverse a String.dll
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.pdb
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\Reverse a String.genruntimeconfig.cache
+C:\Users\hse'\Desktop\SOFTUNI EXERCISE\C# ADVANCED\Stacks and queues - Lab\Reverse a String\Reverse a String\obj\Debug\net8.0\ref\Reverse a String.dll

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\coldbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\hotbeverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\maindish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B592258E-3061-470D-AA82-A289AA629E57}|RESTAURANT\\RESTAURANT.csproj|solutionrelative:restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AD9FBC-E24A-40A7-967C-7E73EBE855B9}|Animals\\Animals.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AD9FBC-E24A-40A7-967C-7E73EBE855B9}|Animals\\Animals.csproj|solutionrelative:animals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AD9FBC-E24A-40A7-967C-7E73EBE855B9}|Animals\\Animals.csproj|c:\\users\\hse\u0027\\desktop\\softuni exercise\\c# oop\\inheritanceexercise\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AD9FBC-E24A-40A7-967C-7E73EBE855B9}|Animals\\Animals.csproj|solutionrelative:animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Starter.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Starter.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Starter.cs",
+              "RelativeToolTip": "RESTAURANT\\Starter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:47.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Soup.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Soup.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Soup.cs",
+              "RelativeToolTip": "RESTAURANT\\Soup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:20.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Product.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Product.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Product.cs",
+              "RelativeToolTip": "RESTAURANT\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainDish.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\MainDish.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\MainDish.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\MainDish.cs",
+              "RelativeToolTip": "RESTAURANT\\MainDish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:58.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HotBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\HotBeverage.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\HotBeverage.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\HotBeverage.cs",
+              "RelativeToolTip": "RESTAURANT\\HotBeverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:47.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Food.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Food.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Food.cs",
+              "RelativeToolTip": "RESTAURANT\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Fish.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Fish.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Fish.cs",
+              "RelativeToolTip": "RESTAURANT\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Dessert.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Dessert.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Dessert.cs",
+              "RelativeToolTip": "RESTAURANT\\Dessert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:23.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColdBeverage.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\ColdBeverage.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\ColdBeverage.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\ColdBeverage.cs",
+              "RelativeToolTip": "RESTAURANT\\ColdBeverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Coffee.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Coffee.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Coffee.cs",
+              "RelativeToolTip": "RESTAURANT\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:59:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Cake.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Cake.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Cake.cs",
+              "RelativeToolTip": "RESTAURANT\\Cake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:58:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Beverage.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Beverage.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Beverage.cs",
+              "RelativeToolTip": "RESTAURANT\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:57:32.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Tea.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Tea.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Tea.cs",
+              "RelativeToolTip": "RESTAURANT\\Tea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:00:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Program.cs",
+              "RelativeDocumentMoniker": "RESTAURANT\\Program.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\RESTAURANT\\Program.cs",
+              "RelativeToolTip": "RESTAURANT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:56:24.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\Animals\\Program.cs",
+              "RelativeDocumentMoniker": "Animals\\Program.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\Animals\\Program.cs",
+              "RelativeToolTip": "Animals\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:10:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\hse\u0027\\Desktop\\SOFTUNI EXERCISE\\C# OOP\\InheritanceExercise\\Animals\\Animal.cs",
+              "RelativeToolTip": "Animals\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T20:10:51.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
